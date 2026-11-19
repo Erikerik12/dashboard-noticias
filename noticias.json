@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-19T04:44:50.964489Z",
+  "generated_at": "2026-11-19T04:51:30.718672Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 112,
+  "new_articles": 114,
   "errors": [],
   "articles": [
+    {
+      "id": "5aafe7076955228d88c64998",
+      "title": "Wall St’s $500 bln pledge to Nvidia yet to be mobilized, WSJ reports",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-500-bln-pledge-044504722.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:45:04Z",
+      "collected_at": "2026-11-19T04:51:30.718672Z"
+    },
     {
       "id": "6215369b316bf1d5d372e4d5",
       "title": "José Antonio Meade alerta sobre desafíos económicos en México por programas sociales y deuda pública. - El Congresista",
@@ -122,6 +131,15 @@
       "category": "México",
       "published_at": "2026-11-19T03:48:23Z",
       "collected_at": "2026-11-19T04:44:50.964489Z"
+    },
+    {
+      "id": "bd225df46308fe75472f7ead",
+      "title": "Grant Cardone Called Jensen Huang 'Shameful' — 4 Days Later He Told Nvidia Employees 'You Know Better Than the Board' After a $600 Billion Wipeout",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/grant-cardone-called-jensen-huang-034515675.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T03:45:15Z",
+      "collected_at": "2026-11-19T04:51:30.718672Z"
     },
     {
       "id": "0b31b5905cb02d91b2159c60",
@@ -2686,24 +2704,6 @@
       "source": "CNBC / Politics",
       "category": "Política",
       "published_at": "2026-11-17T16:03:38Z",
-      "collected_at": "2026-11-19T03:08:03.008539Z"
-    },
-    {
-      "id": "ca8b7b23ddfb7e804b4b727f",
-      "title": "Sector de la vivienda representó 5.5% del PIB en el 2025; creció siete veces más que la economía - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2otVDNkM2pKb2dKajVVQTZQa2NhckNEeTJscVl0WlcweUJxcGJrNXhzc1laLUJBSnhuQXYtbXFNajdKaElnNEx4dGlLR0NyVHFzWURxekktOHNHRW1SVjYyNXk4V0k3S0N1ZWM0U0hObzJUX3lGN3JOc0RmS3FVZUY5OUJwOE5FWGFOclFlbkdjOE5RRmhBUmhPY0VWaFVJeE9FeV9JaHVheFhKVEpPaHpsVEdONU1ablctZGtPa1M5emdJX2lGODczQUdxUdIB0wFBVV95cUxNVGh1OThySlBKWjJrME1ZcGhMWjgzZ2hzeXB6NEtRZWtuMkt6QjRnVzY0ckUweVpXS3YwcDZPRWxvajNFMFVXV3BOZU92NTUwUVZZMmcxVWxmd1NoRGh6QWU3aVIybHpja3ozbVVUYndFQXhZbG1QYWl5ODFQZlE4NC1MV3ZHalg3TWlUcWZfZ2tNeW9NYVZNdndGcW50SWtRV2hBenNXRUk2T1Q4SXZUT0NaLVpjdDRQSi1FSFMyQXM0ckc2eUJ5V2lzcm1TMjF6OXdF?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-17T15:57:22Z",
-      "collected_at": "2026-11-19T03:08:03.008539Z"
-    },
-    {
-      "id": "e711bff479f0bda69631f610",
-      "title": "Bolsa mexicana avanza tras dos sesiones con caídas; Volaris lidera las ganancias - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUY4TkRqZm82WGtlVENfaWZUMUJFRW5IbWJhbXk3UWxfckFFYnNMYXFFb0NiTjZpQllYV21NTVFsMHRmbTlwa2RJOGpaTS11RWJybVUzNnNHT3NqTE9qcFdOOE03bmFUd3NDTGQ0ZXY0aTZnZlpWeDlYdnl6NDFsXzJmLXZSVkMzNXZqMWY4Mkhwbnl2SVZ2WWRHM1h1QTV4Vll5eVY1eHBLMUZHVE9CNmFHN0RMR0NwSmRralRfUmZUN3FSeWsw0gHMAUFVX3lxTE45cS03NVN4NXlaSFNTYVlQalJOT2JveEdVMk0tSHdZbFdTcWhFQmhaUGtnNmVNSEJqSVJBUzREWV9ZUy1OQTNiTWFMd0V5cUdKMG1SdVVXaTN0SFdQTXFxMmYtUWI1eHVJUjdybzhmZy1lQm80UEFRbzV4akE5bjl3SUlUNE4xSVpBSXNCSVM1bEpKelhnMmY2YWpQNUxvcnc1dEZ6SzNwM1kxYXhRM2EzVDFzcGx4MWZpN0hTdllYNVo2MW5qT2gwaXU0OQ?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-17T15:51:26Z",
       "collected_at": "2026-11-19T03:08:03.008539Z"
     }
   ]
