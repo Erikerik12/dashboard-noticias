@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T04:51:30.718672Z",
+  "generated_at": "2026-11-19T04:52:05.284086Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 114,
+  "new_articles": 115,
   "errors": [],
   "articles": [
     {
@@ -736,6 +736,15 @@
       "collected_at": "2026-11-19T03:08:03.008539Z"
     },
     {
+      "id": "acef23a6af56c764f63c3d4b",
+      "title": "Brazil Senate approves fiscal package as government seeks to calm markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObF9ISEo5c0dvMnVMNE5pV08wckxUeERyeTVTQUNLZ0FVc3Rsb1hLLTZ6R3ZKRzRRaktQZmthZWJFM3h1bkRtNzBfUFFLOGgxZU1STjVBYjc3NTRkSUpPQVNFNjZpaEN4SUhEWWJoUWJvSTFwTDBwYjRSUGdjcVdyZGpaYWVXUnFtWUJlV3ZFME5RRXhkZ2xXbmRvRHpQOHdQQzdIeTdKRXdLdjh6RkFZdFQtbERZUGhNLXc?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:37:47Z",
+      "collected_at": "2026-11-19T04:52:05.284086Z"
+    },
+    {
       "id": "b6f9d735eb9b1cc53c7fcc3b",
       "title": "US inflation surprise and Treasury yield surge may deepen liquidity challenges for NEAR and crypto assets - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbElRcDZRcTZkLVZ2Q05fa2t1SHA2bFVucWpKaFV0V3llMVhwUldzNEdiSEVBelVEb3dWOEpvMS1tTXZ2TjZvaENLQ1lpdmFnU1JVbkNId0xKM3BLdUhjT3lzOWFYeEtVdnV1bFNiclRWSDVHZG1aUE4zYTZzX003d05YWmxrTVI4aUc0OTdZdw?oc=5",
@@ -1283,6 +1292,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T17:30:02Z",
       "collected_at": "2026-11-19T04:44:50.964489Z"
+    },
+    {
+      "id": "e3e73a99a498cb2c45cfb137",
+      "title": "FTSE 100 slips as commodity-linked stocks weigh; UK inflation at one-year high - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEVjc0dlYzVLb2hOZkVUWGlMRnAybzlIM1ZjRXlwNG8zYW05bXZ4VXNNTlZjaVZWeThsdzVqR2x3aXpQaGpwX1k4SDJhcHNZYVZQUWdlRnpjQ3lYWm9YSXd0QXhJNUJ5SWpQVjd0NWZSV3lLbENOTFpWOXJoT1Vvc2dyclMtUUtnOFo4MFpoUTk?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T17:20:47Z",
+      "collected_at": "2026-11-19T04:52:05.284086Z"
     },
     {
       "id": "cc0e7a92efa226b77b329fd1",
@@ -2686,24 +2704,6 @@
       "source": "El Economista",
       "category": "México",
       "published_at": "2026-11-17T16:32:21Z",
-      "collected_at": "2026-11-19T03:08:03.008539Z"
-    },
-    {
-      "id": "2beee4b110e957e74ed7f923",
-      "title": "Invest $200,000 in These 5 Dividend Stocks to Fund Your Retirement Income - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0Y2M01Nbmhoc2JuQkRHTTFHU0lFSjZJdzNrLVhfaE5MR3RWWEM5cGNvSEg3cGVCVEtkbjRTRHdCVlVDNEp6OXUwX3FBYTVZUWRzMmhUZmN2Z2VzMHh2bjZuS0dGdkViV3dzZHRRVXZWM3VJMjdiWkUwZWJXZ0JEUnRBbkUzZXFTQlJCRlZndUEwOFZE?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T16:30:50Z",
-      "collected_at": "2026-11-19T03:08:03.008539Z"
-    },
-    {
-      "id": "f2f68f0ebc7356e7ccdb2926",
-      "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-      "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T16:03:38Z",
       "collected_at": "2026-11-19T03:08:03.008539Z"
     }
   ]
